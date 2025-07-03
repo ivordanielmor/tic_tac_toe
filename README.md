@@ -49,7 +49,7 @@ python tic_tac_toe.py
 
 ## 📷 Képernyőkép
 
-*(Helyezd ide a játékról készített képernyőképet, ha van.)*
+![Tic Tac Toe játékkép](./kepek/screenshot.png)
 
 ## 📄 Licenc
 
